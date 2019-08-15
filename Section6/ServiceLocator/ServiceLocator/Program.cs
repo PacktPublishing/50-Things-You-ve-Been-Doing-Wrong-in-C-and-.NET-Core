@@ -37,4 +37,5 @@ namespace ServiceLocator
                 var orderService = new OrderServiceWrong(scope.ServiceProvider);
             }
         }
+    }
 }

@@ -38,6 +38,7 @@ namespace NotJustTesting
                     new Peripherals(), 
                     new Case(electricity, new Ram(electricity), 
                     new MainBoard(electricity)));
+
             var services = new ServiceCollection();
             services.AddTransient<Computer>();
             services.AddTransient<Peripherals>();
@@ -45,6 +46,7 @@ namespace NotJustTesting
             services.AddTransient<Ram>();
             services.AddSingleton<Electricity>();
             services.AddTransient<MainBoard>();
+            
             var globalProvider = services.BuildServiceProvider();
             var computer2 = globalProvider.GetService<Computer>();
         }

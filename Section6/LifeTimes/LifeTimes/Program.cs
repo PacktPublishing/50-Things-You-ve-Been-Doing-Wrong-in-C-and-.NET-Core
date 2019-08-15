@@ -21,7 +21,7 @@ namespace LifeTimes
         static void Main(string[] args)
         {
             var services = new ServiceCollection();
-            services.AddScoped<Transaction>();
+            services.AddTransient<Transaction>();
 
             var globalProvider = services.BuildServiceProvider();
             using (var scope = globalProvider.CreateScope())
