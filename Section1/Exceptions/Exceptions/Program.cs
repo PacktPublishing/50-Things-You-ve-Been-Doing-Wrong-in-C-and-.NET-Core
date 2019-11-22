@@ -24,10 +24,10 @@ namespace Exceptions
 
         static void DoShopping(Product p)
         {
-            CaluclateTax(p);
+            CalculateTax(p);
         }
 
-        static void CaluclateTax(Product p)
+        static void CalculateTax(Product p)
         {
             try{
             var previousPrice = p.Price;

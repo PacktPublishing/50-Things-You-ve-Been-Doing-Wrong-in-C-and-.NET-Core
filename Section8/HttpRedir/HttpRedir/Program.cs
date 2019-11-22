@@ -8,7 +8,8 @@ namespace HttpRedir
         static void Main(string[] args)
         {
             var client = new HttpClient();
-            var res = client.GetAsync("https://httpbin.org/redirect-to?url=https://google.com")
+            var res = client
+                .GetAsync("https://httpbin.org/redirect-to?url=https://google.com")
                 .Result.Content.ReadAsStringAsync()
                 .Result;
             Console.WriteLine(res);
