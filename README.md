@@ -23,18 +23,18 @@ Please note that this course assumes familiarity with C#, .NET Core, and ASP.NET
 
 ### Technical Requirements
 For successful completion of this course, students will require the computer systems with at least the following:<br/>
-●	An editor like Visual Studio Code or Visual Studio
-●	.NET Core 3.x+ 
+●	An editor like Visual Studio Code or Visual Studio<br/>
+●	.NET Core 3.x+ <br/>
 <br/>
 
 
 ### Recommended Hardware Requirements:<br/>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 <br/>
-●	OS: Windows 10
-●	Processor: Dual Core 3.0 Ghz
-●	Memory: 12GB
-●	Hard Disk Space: 500GB
+●	OS: Windows 10<br/>
+●	Processor: Dual Core 3.0 Ghz<br/>
+●	Memory: 12GB<br/>
+●	Hard Disk Space: 500GB<br/>
 ●	Video Card: 1GB Video Memory 
 
 
