@@ -46,7 +46,3 @@ For an optimal experience with hands-on labs and other practical activities, we 
 * [Modern App Development with C# 8 and .NET Core 3.0 [Video]](https://www.packtpub.com/programming/modern-app-development-with-c-8-and-net-core-3-0-video)
 
 * [C# 7 and .NET Core 2.0 Recipes [Video]](https://www.packtpub.com/application-development/c-7-and-net-core-20-recipes-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789804683">https://packt.link/free-ebook/9781789804683 </a> </p>
